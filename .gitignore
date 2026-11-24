@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+*.iml
+.DS_Store
+
+# Allure reports
+reports/allure-results/
+reports/allure-reports/
+reports/allure-report/
+
+# Logs
+*.log
+
+# Secrets
+.env

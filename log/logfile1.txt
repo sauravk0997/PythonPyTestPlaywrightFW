@@ -1,0 +1,3 @@
+ERROR    root:logger.py:25 This is an error
+INFO     root:logger.py:26 This is an info
+WARNING  root:logger.py:27 This is warning
